@@ -1,1 +1,1 @@
-# nitrostudio2x.github.io
+Nitro Studio 2X Frontpage
